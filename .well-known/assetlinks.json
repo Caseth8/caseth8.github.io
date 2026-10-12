@@ -5,4 +5,12 @@
     "package_name": "io.github.caseth8.twa",
     "sha256_cert_fingerprints": ["D4:91:6D:8E:AE:F7:EE:60:C6:55:5B:96:B7:93:29:44:19:DA:59:32:5B:B1:32:BA:A1:68:DC:39:C2:1D:B2:66"]
   }
+},
+{
+  "relation": ["delegate_permission/common.handle_all_urls"],
+  "target": {
+    "namespace": "android_app",
+    "package_name": "io.github.caseth8.tpb",
+    "sha256_cert_fingerprints": ["26:D2:51:33:BA:47:25:DB:3A:1A:8A:42:EA:37:FE:19:BD:D8:DD:2C:40:CF:0F:6B:BF:90:8B:2D:4A:A9:48:C0"]
+  }
 }]
